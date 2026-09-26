@@ -1,0 +1,5 @@
+text,label,count
+c# | peripheral blood_control | diagnosis: healthy control,control,68
+f# | peripheral blood_fibromyalgia patient | diagnosis: fibromyalgia,DROP,60
+c#_# | peripheral blood_control | diagnosis: healthy control,control,7
+f#_# | peripheral blood_fibromyalgia patient | diagnosis: fibromyalgia,DROP,7

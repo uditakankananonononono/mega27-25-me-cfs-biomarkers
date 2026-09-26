@@ -1,0 +1,7 @@
+# MEGA27 item 25: Me Cfs research project
+
+This is a separate disease-specific research repository, migrated from the shared [source repository](https://github.com/uditakankananonononono/mega27-25-biomarkers-underserved-diseases) at source commit `d2284557dc5c515cef9ffc13b7df774508b8211e`. `projects/me_cfs/MIGRATION_MANIFEST_2026-09-27.json` lists path-level SHA-256 values from that source. The shared analysis package and tests are copied from `2960853` and are common infrastructure, not ten separately established scientific discoveries.
+
+Research status: **unfinished**. The accession manifest contains 211 disease-tagged record units, including nested GEO series/sample units. They are not 211 independent datasets or people. Review `projects/me_cfs/NOVELTY_PLAN.md` and project-specific results for known holds. A new validated discovery, a fair published same-task benchmark beat, 40 genuinely used disease-specific services, ten implemented novelty-improvement judge rounds, at least ten numbered formulas and a 50-page Times New Roman disease-specific manuscript are **not established** by migration. Shared program figures or paper were not copied as a disease-specific paper.
+
+Install the package with `python3 -m pip install -e .` and run `python3 -m pytest -q` for common tests. Disease-specific test commands, where present, are in the project README. Audit trails and negative results remain rather than being repackaged as positive findings.

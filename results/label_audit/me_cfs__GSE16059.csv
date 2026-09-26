@@ -1,0 +1,6 @@
+text,label,count
+"pbls_pair #_unaffected | pbls, pair #, unaffected",control,42
+"pbls_pair #_cfs | pbls, pair #, cfs",case,32
+"pbls_pair #_icf | pbls, pair #, icf",DROP,12
+"pbls_pair # unaffected | pbls, pair # unaffected",control,1
+"pbls_pair #_unaffected | pbls, pair, #, unaffected",control,1

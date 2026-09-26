@@ -1,0 +1,110 @@
+{
+  "schema": "migration-plan-v1",
+  "disease": "me_cfs",
+  "proposed_repo": "mega27-25-me-cfs-biomarkers",
+  "source_shared_repository": "uditakankananonononono/mega27-25-biomarkers-underserved-diseases",
+  "source_commit": "d2284557dc5c515cef9ffc13b7df774508b8211e",
+  "tracked_files": [
+    {
+      "shared_repo_path": "projects/me_cfs/NOVELTY_PLAN.md",
+      "sha256": "f05d7c10d4f9ea7b3481154f925394a2ccab68918cd6a09de11037775f251d23",
+      "bytes": 2216
+    },
+    {
+      "shared_repo_path": "projects/me_cfs/README.md",
+      "sha256": "04bc6b106cb756701d91f139cc7a9e0195f5f5ea9dc834a9eae994ee799ebaf8",
+      "bytes": 846
+    },
+    {
+      "shared_repo_path": "results/label_audit/me_cfs__GSE14577-GPL96.csv",
+      "sha256": "0071a4842b5c6bdba89e16546e72e2821a8bf551ab2a3bdc8300c8955879cf72",
+      "bytes": 114
+    },
+    {
+      "shared_repo_path": "results/label_audit/me_cfs__GSE14577-GPL97.csv",
+      "sha256": "9e3c396f520290627ff6fc290a5afa929ef34dd39ad013049c061fab04994cfa",
+      "bytes": 114
+    },
+    {
+      "shared_repo_path": "results/label_audit/me_cfs__GSE16059.csv",
+      "sha256": "cd950af9a622f2110abc263bf3bd1960df4d771821793d45bb09b45e48909e14",
+      "bytes": 296
+    },
+    {
+      "shared_repo_path": "results/label_audit/me_cfs__GSE269047.csv",
+      "sha256": "728d7743b0a56f3fc156f16a6fdc3f4d812cfe9e51ec722704861d6753722558",
+      "bytes": 381
+    },
+    {
+      "shared_repo_path": "results/label_audit/me_cfs__GSE39684.csv",
+      "sha256": "fed6cef03ebc9333f867ec62a101e1232711792fcec44f9adb6d35a6ab94a81f",
+      "bytes": 415
+    },
+    {
+      "shared_repo_path": "results/label_audit/me_cfs__GSE67311.csv",
+      "sha256": "a13eb07cace35596c3a43b7503b90c953bf3c860ea2fa191852261d2fa04f7f8",
+      "bytes": 313
+    },
+    {
+      "shared_repo_path": "results/meta_discovery/me_cfs.csv.gz",
+      "sha256": "0a8e578780a178860e5f1341017832f6fb7b37e07cd737369d408227ed9f914d",
+      "bytes": 370125
+    },
+    {
+      "shared_repo_path": "results/prio/benchmark_me_cfs.csv",
+      "sha256": "c41860eb1b1faa8d2bc97ca9aa6ce24e499c21dc2f9b4db85782cf5c409e8d66",
+      "bytes": 4262
+    },
+    {
+      "shared_repo_path": "results/prio/candidates_me_cfs.csv",
+      "sha256": "b6c5e9a1a8e0168fb2fe863720f6fba99bb8a1455f63cbdc927d13b84b497d53",
+      "bytes": 2296
+    },
+    {
+      "shared_repo_path": "results/series/me_cfs__GSE14577-GPL96.csv.gz",
+      "sha256": "467027328f737b9700de6ea2d999b1aa3ba57948fa5b81e303d7bf09444549ab",
+      "bytes": 132189
+    },
+    {
+      "shared_repo_path": "results/series/me_cfs__GSE14577-GPL96.labels.csv",
+      "sha256": "dd8bf2cf53e00156945e339cb844260040d68f4e09410fcf69a19cc2da87842c",
+      "bytes": 256
+    },
+    {
+      "shared_repo_path": "results/series/me_cfs__GSE14577-GPL97.csv.gz",
+      "sha256": "cdd0a1484ee3b28369d150c00474c2b200a3ac0a300c9cd232248e3f2db5a29e",
+      "bytes": 110258
+    },
+    {
+      "shared_repo_path": "results/series/me_cfs__GSE14577-GPL97.labels.csv",
+      "sha256": "0e6e60e1a57b57a738a303352e13c2fb687de0a823764bea8c08d094e1b95124",
+      "bytes": 256
+    },
+    {
+      "shared_repo_path": "results/series/me_cfs__GSE16059.csv.gz",
+      "sha256": "4a55ca82182f8a58427480b227014ebef0e2692a2985ce60571d60fce87a60e4",
+      "bytes": 212728
+    },
+    {
+      "shared_repo_path": "results/series/me_cfs__GSE16059.labels.csv",
+      "sha256": "42c03aaf59aaccbcf5fbdcd8fbc33b578c710c91b2935f70e8586dbc4f531a52",
+      "bytes": 1414
+    }
+  ],
+  "explicitly_excluded": [
+    "untracked files",
+    "modified tracked files not represented by source commit",
+    "other-disease results",
+    "shared manuscript until disease-specific content can be verified"
+  ],
+  "accession_manifest": {
+    "source": "results/dataset_manifest.csv",
+    "matching_rule": "disease string in role field, not proof of independent datasets",
+    "matching_record_count": 211,
+    "GSE_count": 5,
+    "GSM_count": 205,
+    "other_count": 1
+  },
+  "deployment_status": "planning_only_no_repos_verified",
+  "method": "copy and verify hashes from source_commit Git tree, not dirty working tree; preserve project-relative paths; pin shared core; then run project-specific tests and read back remote"
+}

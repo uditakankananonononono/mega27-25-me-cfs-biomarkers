@@ -1,0 +1,5 @@
+text,label,count
+"prostate biopsy from # cohort, trizol extracted, polya purified, vp# | prostate biopsy, polya | cohort: #",DROP,51
+"prostate biopsy from # cohort, trizol extracted, vp# | prostate biopsy, total rna | cohort: #",DROP,10
+"cell line #rv# supernatant, trizol extracted, polya purified, #rv# | cell line, polya",DROP,1
+"cell line #rv# supernatant, trizol extracted, #rv# | cell line, total rna",DROP,1

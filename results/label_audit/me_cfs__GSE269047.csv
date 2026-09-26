@@ -1,0 +1,5 @@
+text,label,count
+"pbmc from co-diagnosed individual, subject # | pbmc from co-diagnosed individual | diagnosis: co-diagnosis",DROP,16
+"pbmc from fm, subject # | pbmc from fm | diagnosis: fm",DROP,10
+"pbmc from healthy control, subject # | pbmc from healthy control | diagnosis: healthy control",control,9
+"pbmc from me/cfs, subject # | pbmc from me/cfs | diagnosis: me/cfs",case,8

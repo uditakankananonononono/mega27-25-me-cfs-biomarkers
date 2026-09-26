@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ubiomark"
+version = "0.1.0"
+description = "Cross-cohort GEO meta-analysis + graph-neural gene prioritisation for under-served diseases"
+requires-python = ">=3.9"
+dependencies = ["numpy", "pandas", "scipy", "scikit-learn", "torch"]
+
+[project.scripts]
+ubiomark = "ubiomark.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
