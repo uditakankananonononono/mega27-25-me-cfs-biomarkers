@@ -1,0 +1,123 @@
+{
+  "source_url": "https://raw.githubusercontent.com/adb258/cfrna_ai_manuscript/main/data/joined_df_MECFS.csv",
+  "paper_url": "https://www.nature.com/articles/s41467-026-74077-x",
+  "retrieved_ist": "2026-09-25 20:54",
+  "sha256": "0db5609dfb0529587bc84e075a606603813f376af75f99c3bd2728b025097fd7",
+  "seed_count": 50,
+  "accuracy_by_method": {
+    "EXTRATREES_accuracy": {
+      "mean_accuracy": 0.5757894736842105,
+      "sd_over_seeds": 0.06675235226895646,
+      "min": 0.447368421052632,
+      "max": 0.736842105263158
+    },
+    "GLMNETLasso_accuracy": {
+      "mean_accuracy": 0.5794736842105263,
+      "sd_over_seeds": 0.06797965530190056,
+      "min": 0.447368421052632,
+      "max": 0.736842105263158
+    },
+    "GLMNETRidge_accuracy": {
+      "mean_accuracy": 0.5994736842105262,
+      "sd_over_seeds": 0.05951022137477788,
+      "min": 0.473684210526316,
+      "max": 0.710526315789474
+    },
+    "NNET_accuracy": {
+      "mean_accuracy": 0.5768421052631578,
+      "sd_over_seeds": 0.06464416619610433,
+      "min": 0.473684210526316,
+      "max": 0.736842105263158
+    },
+    "RF_accuracy": {
+      "mean_accuracy": 0.5794736842105261,
+      "sd_over_seeds": 0.07022934735666438,
+      "min": 0.421052631578947,
+      "max": 0.736842105263158
+    },
+    "gpt_naive_accuracy": {
+      "mean_accuracy": 0.5773684210526315,
+      "sd_over_seeds": 0.0739388724951147,
+      "min": 0.421052631578947,
+      "max": 0.789473684210526
+    },
+    "gpt_informed_accuracy": {
+      "mean_accuracy": 0.5499999999999999,
+      "sd_over_seeds": 0.07078259542767934,
+      "min": 0.368421052631579,
+      "max": 0.684210526315789
+    },
+    "claude_naive_accuracy": {
+      "mean_accuracy": 0.49975817923186355,
+      "sd_over_seeds": 0.08674106701562596,
+      "min": 0.342105263157895,
+      "max": 0.710526315789474
+    },
+    "claude_informed_accuracy": {
+      "mean_accuracy": 0.5205405405405404,
+      "sd_over_seeds": 0.0676366147685871,
+      "min": 0.394736842105263,
+      "max": 0.684210526315789
+    }
+  },
+  "caveats": "Source paper uses 50 stratified 70:30 splits of an ME/CFS subset and its own feature-selection/classifier workflow. Its mean accuracy is not P33 authors seed-22 108/60 test AUROC or 17-GEO-cohort CNN AUROC. The published aggregate accuracy table has only seed-level accuracies, but its LLM archive includes per-seed patient indices; standard-ML individual predictions remain unavailable in the inspected files. Those indices show 38 held-out patients per seed, not P33's 60. Accuracy and AUROC are different metrics; no claim of beating these models is possible without identical split and feature-selection availability.",
+  "released_patient_index_audit": {
+    "source_url": "https://raw.githubusercontent.com/adb258/cfrna_ai_manuscript/main/data/full%20pipeline/DONE_o3_MECFS_informed.zip",
+    "zip_sha256": "5edce8394437584636fa4dbeaa49a647737674718dc9aac2ef8883d5a4a2f6d3",
+    "archive_seed_indices": 50,
+    "per_seed_holdout_index_count": 38,
+    "seed_22_overlap_with_P33_seed_22_test_n": 15,
+    "seed_22_overlap_with_P33_seed_22_train_n": 23,
+    "P33_test_n": 60,
+    "P33_train_n": 108,
+    "interpretation": "The new 50-seed paper releases sample-index CSVs in this LLM archive, contrary to an earlier blanket no-split-index impression; it does not release corresponding standard-ML per-patient predictions in this file. Every new-paper held-out index has 38 people, not the P33 fixed 60, and the seed numbered 22 is not the same split. Matching seed labels do not make scores comparable. Exact remodelling would require reconstructing the paper-specific cohort, its constraints and train-only DESeq2/VST feature-selection/threshold procedure, then reporting same-patient paired results. The union of released per-seed held-out indices covers only 147 of P33's 168 IDs, leaving 21 absent; the archive does not prove their exclusion reason or the complete training split, so do not infer selection policy from this descriptive absence.",
+    "union_unique_ids_across_50": 147,
+    "union_in_P33_168_person_pool": 147,
+    "P33_pool_not_in_new_index_union": 21,
+    "index_union_by_phenotype_sex": [
+      {
+        "phenotype": "HC",
+        "sex": "F",
+        "in_new_index_pool": false,
+        "n": 5
+      },
+      {
+        "phenotype": "HC",
+        "sex": "F",
+        "in_new_index_pool": true,
+        "n": 47
+      },
+      {
+        "phenotype": "HC",
+        "sex": "M",
+        "in_new_index_pool": false,
+        "n": 7
+      },
+      {
+        "phenotype": "HC",
+        "sex": "M",
+        "in_new_index_pool": true,
+        "n": 16
+      },
+      {
+        "phenotype": "MECFS",
+        "sex": "F",
+        "in_new_index_pool": true,
+        "n": 74
+      },
+      {
+        "phenotype": "MECFS",
+        "sex": "M",
+        "in_new_index_pool": false,
+        "n": 9
+      },
+      {
+        "phenotype": "MECFS",
+        "sex": "M",
+        "in_new_index_pool": true,
+        "n": 10
+      }
+    ],
+    "cross_protocol_intersection_warning": "A descriptive overlap of 15 subjects between the new LLM seed-22 held-out 38 and P33 seed-22 held-out 60 is not an admissible paired performance set: the remaining 23 new-paper held-out subjects were in P33 training, and P33 model selection/feature VST was designed for its own split. Do not compute or present a matched win from the overlapping subset."
+  }
+}

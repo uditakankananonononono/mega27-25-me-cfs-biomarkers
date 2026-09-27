@@ -1,0 +1,169 @@
+gsm,column,title,phenotype,batch,site,sex
+GSM8891375,cfs_cfrna_1,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_001, healthy control",phenotype: control,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891376,cfs_cfrna_2,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_002, healthy control",phenotype: control,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891377,cfs_cfrna_3,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_003, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891378,cfs_cfrna_4,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_004, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891379,cfs_cfrna_5,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_005, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891380,cfs_cfrna_6,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_006, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: male
+GSM8891381,cfs_cfrna_7,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_007, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891382,cfs_cfrna_8,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_008, healthy control",phenotype: control,batch: 2023.08.25,"test site: New York City, NY",Sex: male
+GSM8891383,cfs_cfrna_11,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_011, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891384,cfs_cfrna_12,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_012, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891385,cfs_cfrna_13,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_013, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891386,cfs_cfrna_14,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_014, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891387,cfs_cfrna_15,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_015, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891388,cfs_cfrna_16,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_016, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: male
+GSM8891389,cfs_cfrna_17,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_017, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891390,cfs_cfrna_18,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_018, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891391,cfs_cfrna_21,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_021, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891392,cfs_cfrna_22,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_022, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891393,cfs_cfrna_23,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_023, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891394,cfs_cfrna_24,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_024, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891395,cfs_cfrna_25,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_025, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891396,cfs_cfrna_26,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_026, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891397,cfs_cfrna_27,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_027, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891398,cfs_cfrna_28,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_028, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: male
+GSM8891399,cfs_cfrna_31,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_031, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891400,cfs_cfrna_32,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_032, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891401,cfs_cfrna_33,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_033, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891402,cfs_cfrna_34,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_034, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891403,cfs_cfrna_35,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_035, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891404,cfs_cfrna_36,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_036, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891405,cfs_cfrna_37,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_037, healthy control",phenotype: control,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891406,cfs_cfrna_38,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_038, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891407,cfs_cfrna_41,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_041, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891408,cfs_cfrna_42,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_042, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891409,cfs_cfrna_43,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_043, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891410,cfs_cfrna_44,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_044, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891411,cfs_cfrna_45,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_045, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891412,cfs_cfrna_46,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_046, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891413,cfs_cfrna_47,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_047, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891414,cfs_cfrna_48,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_048, healthy control",phenotype: control,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891415,cfs_cfrna_51,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_051, healthy control",phenotype: control,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891416,cfs_cfrna_52,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_052, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891417,cfs_cfrna_53,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_053, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891418,cfs_cfrna_54,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_054, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891419,cfs_cfrna_55,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_055, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: male
+GSM8891420,cfs_cfrna_56,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_056, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891421,cfs_cfrna_57,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_057, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891422,cfs_cfrna_58,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_058, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891423,cfs_cfrna_59,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_059, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891424,cfs_cfrna_60,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_060, healthy control",phenotype: control,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891425,cfs_cfrna_63,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_063, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: male
+GSM8891426,cfs_cfrna_64,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_064, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: male
+GSM8891427,cfs_cfrna_65,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_065, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891428,cfs_cfrna_66,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_066, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891429,cfs_cfrna_67,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_067, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891430,cfs_cfrna_68,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_068, healthy control",phenotype: control,batch: 2023.08.25,"test site: Ithaca, NY",Sex: female
+GSM8891431,cfs_cfrna_69,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_069, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891432,cfs_cfrna_70,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_070, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: Los Angeles, CA",Sex: female
+GSM8891433,cfs_cfrna_71,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_071, ME/CFS patient",phenotype: case,batch: 2023.08.25,"test site: New York City, NY",Sex: female
+GSM8891434,cfs_cfrna_72,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_072, healthy control",phenotype: control,batch: 2023.08.25,"test site: New York City, NY",Sex: male
+GSM8891435,cfs_cfrna_139,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_139, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891436,cfs_cfrna_140,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_140, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891437,cfs_cfrna_141,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_141, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891438,cfs_cfrna_142,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_142, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891439,cfs_cfrna_143,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_143, healthy control",phenotype: control,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891440,cfs_cfrna_145,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_145, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: male
+GSM8891441,cfs_cfrna_146,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_146, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891442,cfs_cfrna_147,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_147, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891443,cfs_cfrna_148,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_148, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891444,cfs_cfrna_150,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_150, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: male
+GSM8891445,cfs_cfrna_151,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_151, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891446,cfs_cfrna_152,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_152, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891447,cfs_cfrna_153,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_153, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891448,cfs_cfrna_154,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_154, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891449,cfs_cfrna_155,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_155, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891450,cfs_cfrna_156,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_156, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891451,cfs_cfrna_157,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_157, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891452,cfs_cfrna_159,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_159, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891453,cfs_cfrna_160,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_160, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891454,cfs_cfrna_161,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_161, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891455,cfs_cfrna_162,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_162, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891456,cfs_cfrna_163,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_163, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891457,cfs_cfrna_164,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_164, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891458,cfs_cfrna_165,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_165, healthy control",phenotype: control,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891459,cfs_cfrna_166,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_166, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891460,cfs_cfrna_167,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_167, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891461,cfs_cfrna_168,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_168, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891462,cfs_cfrna_169,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_169, healthy control",phenotype: control,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891463,cfs_cfrna_170,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_170, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891464,cfs_cfrna_171,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_171, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: male
+GSM8891465,cfs_cfrna_173,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_173, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891466,cfs_cfrna_174,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_174, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891467,cfs_cfrna_177,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_177, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891468,cfs_cfrna_178,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_178, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891469,cfs_cfrna_179,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_179, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: male
+GSM8891470,cfs_cfrna_181,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_181, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891471,cfs_cfrna_182,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_182, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: male
+GSM8891472,cfs_cfrna_183,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_183, healthy control",phenotype: control,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891473,cfs_cfrna_184,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_184, healthy control",phenotype: control,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891474,cfs_cfrna_185,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_185, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: male
+GSM8891475,cfs_cfrna_186,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_186, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891476,cfs_cfrna_187,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_187, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891477,cfs_cfrna_188,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_188, healthy control",phenotype: control,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891478,cfs_cfrna_189,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_189, healthy control",phenotype: control,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891479,cfs_cfrna_190,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_190, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: male
+GSM8891480,cfs_cfrna_192,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_192, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891481,cfs_cfrna_193,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_193, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891482,cfs_cfrna_194,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_194, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891483,cfs_cfrna_195,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_195, healthy control",phenotype: control,batch: 2024.03.05,"test site: New York City, NY",Sex: male
+GSM8891484,cfs_cfrna_196,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_196, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891485,cfs_cfrna_197,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_197, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891486,cfs_cfrna_198,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_198, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891487,cfs_cfrna_199,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_199, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891488,cfs_cfrna_200,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_200, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891489,cfs_cfrna_201,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_201, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: New York City, NY",Sex: male
+GSM8891490,cfs_cfrna_202,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_202, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891491,cfs_cfrna_204,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_204, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891492,cfs_cfrna_205,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_205, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891493,cfs_cfrna_206,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_206, ME/CFS patient",phenotype: case,batch: 2024.03.05,"test site: Los Angeles, CA",Sex: female
+GSM8891494,cfs_cfrna_207,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_207, healthy control",phenotype: control,batch: 2024.03.05,"test site: New York City, NY",Sex: male
+GSM8891495,cfs_cfrna_208,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_208, healthy control",phenotype: control,batch: 2024.03.05,"test site: Ithaca, NY",Sex: female
+GSM8891496,cfs_cfrna_209,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_209, healthy control",phenotype: control,batch: 2024.03.05,"test site: New York City, NY",Sex: female
+GSM8891497,cfs_cfrna_211,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_211, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891498,cfs_cfrna_212,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_212, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891499,cfs_cfrna_213,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_213, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891500,cfs_cfrna_214,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_214, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891501,cfs_cfrna_215,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_215, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891502,cfs_cfrna_219,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_219, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891503,cfs_cfrna_220,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_220, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891504,cfs_cfrna_221,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_221, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891505,cfs_cfrna_222,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_222, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891506,cfs_cfrna_223,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_223, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891507,cfs_cfrna_224,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_224, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891508,cfs_cfrna_225,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_225, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891509,cfs_cfrna_226,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_226, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891510,cfs_cfrna_230,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_230, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891511,cfs_cfrna_231,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_231, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891512,cfs_cfrna_232,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_232, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891513,cfs_cfrna_233,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_233, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891514,cfs_cfrna_235,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_235, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891515,cfs_cfrna_236,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_236, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891516,cfs_cfrna_240,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_240, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891517,cfs_cfrna_241,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_241, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891518,cfs_cfrna_242,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_242, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891519,cfs_cfrna_243,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_243, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891520,cfs_cfrna_244,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_244, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891521,cfs_cfrna_245,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_245, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891522,cfs_cfrna_246,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_246, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891523,cfs_cfrna_247,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_247, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891524,cfs_cfrna_248,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_248, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891525,cfs_cfrna_251,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_251, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891526,cfs_cfrna_252,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_252, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891527,cfs_cfrna_253,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_253, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891528,cfs_cfrna_254,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_254, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891529,cfs_cfrna_255,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_255, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891530,cfs_cfrna_256,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_256, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891531,cfs_cfrna_257,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_257, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891532,cfs_cfrna_258,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_258, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891533,cfs_cfrna_259,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_259, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891534,cfs_cfrna_260,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_260, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891535,cfs_cfrna_264,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_264, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891536,cfs_cfrna_265,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_265, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891537,cfs_cfrna_266,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_266, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891538,cfs_cfrna_267,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_267, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: male
+GSM8891539,cfs_cfrna_268,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_268, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891540,cfs_cfrna_270,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_270, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891541,cfs_cfrna_271,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_271, healthy control",phenotype: control,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female
+GSM8891542,cfs_cfrna_272,"Plasma cell-free RNA, RNA seq for subject: cfs_cfrna_272, ME/CFS patient",phenotype: case,batch: 2024.06.28,"test site: Ithaca, NY",Sex: female

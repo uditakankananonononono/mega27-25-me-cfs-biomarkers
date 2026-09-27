@@ -1,0 +1,34 @@
+{
+  "published_source": "https://github.com/aegardella/cfRNA_MECFS",
+  "published_article": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12377778/",
+  "source_sha256": {
+    "seed_22_all.metadata.test.tsv": "ef58311b46d251964303b5b6a5911afed892a8f5d0084e0198f531e68be57fc3",
+    "seed_22_all.metadata.train.tsv": "806b23676fae6882f644f76ac73aa17a39b44ed46ccc5b6a9125b78b4abbd776",
+    "seed_22_all.counts.test.VST.tsv": "e7eb7d4e2c4f7fb4ec083b59606b54edccc65d51bf40916d3e059ddbc79657b1",
+    "seed_22_all.counts.train.VST.tsv": "bf02cfa8cb67f43853bff47ff9657a2b345bf2a01230b8b81548cdfc31b4e117",
+    "seed_22_all.GLMNETLasso.test.txt": "6c618eb268d4d969dfb759dbef30c6c207a8cd00e8a7cdc736e5cb26a7f0420f"
+  },
+  "n_train": 108,
+  "n_test": 60,
+  "n_features": 31,
+  "case_train": 61,
+  "case_test": 32,
+  "best_c": 0.001,
+  "cv_mean_auc": 0.7612108262108264,
+  "cv_auc_by_c": {
+    "0.001": 0.7612108262108264,
+    "0.01": 0.7504273504273504,
+    "0.1": 0.7076638176638176,
+    "1": 0.6202991452991453,
+    "10": 0.6009544159544159,
+    "100": 0.581880341880342
+  },
+  "test_auc": 0.7232142857142857,
+  "bootstrap_ci_95": [
+    0.5870535714285714,
+    0.8504464285714285
+  ],
+  "published_test_auc": 0.810267857142857,
+  "delta_vs_published_point": -0.08705357142857129,
+  "published_artifact_test_text": "value\nauc\t0.810267857142857\nyouden\tNA\nSensitivity\t0.15625\nSpecificity\t0.321428571428571\nPos Pred Value\t0.208333333333333\nNeg Pred Value\t0.25\nPrecision\t0.208333333333333\nRecall\t0.15625\nF1\t0.178571428571429\nPrevalence\t0.533333333333333\nDetection Rate\t0.0833333333333333\nDetection Prevalence\t0.4\nBalanced Accuracy\t0.238839285714286\nAccuracy\t0.233333333333333\nKappa\t-0.513157894736842\nAccuracyLower\t0.133837343888848\nAccuracyUpper\t0.360382787105757\nAccuracyNull\t0.533333333333333\nAccuracyPValue\t0.99999947361076\nMcnemarPValue\t0.302028228109777\n"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE293840",
+  "sha256": {
+    "GSE293840_series_matrix.txt.gz": "0d3026d48729fc0570610e1f5bc70a32709425471b2c3476956e240327c6ec3a",
+    "GSE293840_raw_counts_all.csv.gz": "97ca1aa82b1098e75042a7aac5aa003bd3411d2bbf5cdde2da329f6e0f4965d8"
+  },
+  "n_case": 93,
+  "n_control": 75,
+  "n_unique_mapped_genes": 41983,
+  "n_effect_genes": 14370,
+  "n_fixed_measured": 13,
+  "missing_fixed": [
+    "HIST1H3E",
+    "PTGER1",
+    "RSG1"
+  ],
+  "n_positive": 7,
+  "n_negative": 6,
+  "n_sign_match": 5,
+  "null_mean": 6.5439,
+  "empirical_p": 0.949005099490051,
+  "registered_descriptive_support": false,
+  "panel_bh_hits": 5,
+  "n_stratum_gene_results": 104,
+  "ambiguous_ensembl_ids": 3
+}

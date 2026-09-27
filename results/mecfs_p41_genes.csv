@@ -1,0 +1,17 @@
+gene,discovery_mu,target_g,target_v,welch_p,agrees,status
+WDR26,2.2444,-0.9425092019109953,0.7406936329739084,0.22265447641097574,0,measured
+NES,-2.1015,,,,,not uniquely mapped or expression filtered
+TLN1,1.9627,-2.1232852968692955,1.042361704325111,0.08296261705278687,0,measured
+ARF3,1.9495,-3.113772804990492,1.4746317567581964,0.01171961492807919,0,measured
+ANKHD1-EIF4EBP3,1.8816,,,,,not uniquely mapped or expression filtered
+PTGER1,-1.8414,,,,,not uniquely mapped or expression filtered
+HIST1H3E,-1.7768,,,,,not uniquely mapped or expression filtered
+RTF1,1.7527,0.5327772429754881,0.6903209658860469,0.4612632400971716,1,measured
+RPL36,-1.7382,0.6621035061714713,0.7031984210737129,0.3936148567912419,0,measured
+KCNC3,-1.7172,,,,,not uniquely mapped or expression filtered
+RSG1,-1.707,,,,,not uniquely mapped or expression filtered
+WDFY3,1.6746,,,,,not uniquely mapped or expression filtered
+NEU3,-1.6617,,,,,not uniquely mapped or expression filtered
+COQ3,-1.6483,,,,,not uniquely mapped or expression filtered
+MBD5,-1.6418,-1.1068654634704858,0.7687625961853111,0.1796608895086784,1,measured
+WIPF2,1.6329,-4.479468746247095,2.3388033540503765,0.00650027275512063,0,measured

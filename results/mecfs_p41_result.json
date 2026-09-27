@@ -1,0 +1,30 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE236402",
+  "matrix_sha256": "0ccb55030d0af76c5d35e45670fbf0c8838d7ce7d43a590f0c4b09e9cdf85240",
+  "n_case": 3,
+  "n_control": 3,
+  "n_repeated_D2_excluded": 6,
+  "n_unique_mapped_genes": 41866,
+  "n_effect_genes": 6338,
+  "n_fixed_measured": 7,
+  "missing_fixed": [
+    "ANKHD1-EIF4EBP3",
+    "COQ3",
+    "HIST1H3E",
+    "KCNC3",
+    "NES",
+    "NEU3",
+    "PTGER1",
+    "RSG1",
+    "WDFY3"
+  ],
+  "n_positive": 5,
+  "n_negative": 2,
+  "n_sign_match": 2,
+  "null_mean": 2.8212,
+  "empirical_p": 0.8599140085991401,
+  "n_corrected_same_direction": 0,
+  "registered_descriptive_support": false,
+  "ambiguous_ensembl_ids": 3,
+  "limitation": "Three people per group, uncertain participant linkage across studies, different assay; repeated D2 excluded."
+}

@@ -1,0 +1,105 @@
+stratum_field,stratum,gene,n_case,n_control,g,agrees_discovery
+Sample_characteristics_ch1_1,batch: 2023.08.25,WDR26,30,30,0.09467972873851359,1
+Sample_characteristics_ch1_1,batch: 2023.08.25,NES,30,30,0.4348029424975313,0
+Sample_characteristics_ch1_1,batch: 2023.08.25,TLN1,30,30,-0.12266079058583283,0
+Sample_characteristics_ch1_1,batch: 2023.08.25,ARF3,30,30,-0.051333600843833704,0
+Sample_characteristics_ch1_1,batch: 2023.08.25,ANKHD1-EIF4EBP3,30,30,0.2565337027909147,1
+Sample_characteristics_ch1_1,batch: 2023.08.25,RTF1,30,30,0.580791672239324,1
+Sample_characteristics_ch1_1,batch: 2023.08.25,RPL36,30,30,0.1917804233699196,0
+Sample_characteristics_ch1_1,batch: 2023.08.25,KCNC3,30,30,0.786064208550237,0
+Sample_characteristics_ch1_1,batch: 2023.08.25,WDFY3,30,30,0.4144907973534538,1
+Sample_characteristics_ch1_1,batch: 2023.08.25,NEU3,30,30,0.4218351055717892,0
+Sample_characteristics_ch1_1,batch: 2023.08.25,COQ3,30,30,0.2928437928455895,0
+Sample_characteristics_ch1_1,batch: 2023.08.25,MBD5,30,30,-0.2863743263425141,1
+Sample_characteristics_ch1_1,batch: 2023.08.25,WIPF2,30,30,0.4293608573870949,1
+Sample_characteristics_ch1_1,batch: 2024.03.05,WDR26,35,27,0.26965938152303437,1
+Sample_characteristics_ch1_1,batch: 2024.03.05,NES,35,27,0.3324090406413144,0
+Sample_characteristics_ch1_1,batch: 2024.03.05,TLN1,35,27,0.037473507659655854,1
+Sample_characteristics_ch1_1,batch: 2024.03.05,ARF3,35,27,0.008203962652665759,1
+Sample_characteristics_ch1_1,batch: 2024.03.05,ANKHD1-EIF4EBP3,35,27,0.27090784138190455,1
+Sample_characteristics_ch1_1,batch: 2024.03.05,RTF1,35,27,0.4260647948541118,1
+Sample_characteristics_ch1_1,batch: 2024.03.05,RPL36,35,27,0.2844701271956236,0
+Sample_characteristics_ch1_1,batch: 2024.03.05,KCNC3,35,27,0.35764794966249075,0
+Sample_characteristics_ch1_1,batch: 2024.03.05,WDFY3,35,27,0.29188127465115193,1
+Sample_characteristics_ch1_1,batch: 2024.03.05,NEU3,35,27,0.6740201855646687,0
+Sample_characteristics_ch1_1,batch: 2024.03.05,COQ3,35,27,0.7162285808936709,0
+Sample_characteristics_ch1_1,batch: 2024.03.05,MBD5,35,27,0.38825886601996745,0
+Sample_characteristics_ch1_1,batch: 2024.03.05,WIPF2,35,27,0.8581080185699073,1
+Sample_characteristics_ch1_1,batch: 2024.06.28,WDR26,28,18,0.11542717486922328,1
+Sample_characteristics_ch1_1,batch: 2024.06.28,NES,28,18,0.11077407354980841,0
+Sample_characteristics_ch1_1,batch: 2024.06.28,TLN1,28,18,-0.2734972242300541,0
+Sample_characteristics_ch1_1,batch: 2024.06.28,ARF3,28,18,-0.21933599002146575,0
+Sample_characteristics_ch1_1,batch: 2024.06.28,ANKHD1-EIF4EBP3,28,18,0.20277710097171034,1
+Sample_characteristics_ch1_1,batch: 2024.06.28,RTF1,28,18,0.2229557772071057,1
+Sample_characteristics_ch1_1,batch: 2024.06.28,RPL36,28,18,0.21524708114420435,0
+Sample_characteristics_ch1_1,batch: 2024.06.28,KCNC3,28,18,0.1216857152380062,0
+Sample_characteristics_ch1_1,batch: 2024.06.28,WDFY3,28,18,0.08941200174266158,1
+Sample_characteristics_ch1_1,batch: 2024.06.28,NEU3,28,18,0.12313729329969303,0
+Sample_characteristics_ch1_1,batch: 2024.06.28,COQ3,28,18,0.23827198391180837,0
+Sample_characteristics_ch1_1,batch: 2024.06.28,MBD5,28,18,0.22558946481244638,0
+Sample_characteristics_ch1_1,batch: 2024.06.28,WIPF2,28,18,0.28158465228834606,1
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",WDR26,51,57,0.3617200797363544,1
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",NES,51,57,0.14349708349597654,0
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",TLN1,51,57,-0.04435369125070808,0
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",ARF3,51,57,0.03362587249235884,1
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",ANKHD1-EIF4EBP3,51,57,0.5268888877287414,1
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",RTF1,51,57,0.6031038629223997,1
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",RPL36,51,57,0.2518089545156729,0
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",KCNC3,51,57,0.653137062327682,0
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",WDFY3,51,57,0.5589121434279457,1
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",NEU3,51,57,0.7509321403681746,0
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",COQ3,51,57,0.35462761124701514,0
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",MBD5,51,57,0.16120271404730488,0
+Sample_characteristics_ch1_4,"test site: Ithaca, NY",WIPF2,51,57,0.7055056042699402,1
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",WDR26,23,5,0.15875702142952633,1
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",NES,23,5,0.5119228024684832,0
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",TLN1,23,5,-0.30111106747231187,0
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",ARF3,23,5,-0.08660212284849295,0
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",ANKHD1-EIF4EBP3,23,5,-0.37654753462359347,0
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",RTF1,23,5,-0.43863180148440784,0
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",RPL36,23,5,-0.2923232996981556,1
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",KCNC3,23,5,-0.47526334825778743,1
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",WDFY3,23,5,0.024043131788580304,1
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",NEU3,23,5,-0.25945466098739217,1
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",COQ3,23,5,0.8872156170742105,0
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",MBD5,23,5,0.11586420560753063,0
+Sample_characteristics_ch1_4,"test site: Los Angeles, CA",WIPF2,23,5,0.19936024164981014,1
+Sample_characteristics_ch1_4,"test site: New York City, NY",WDR26,19,13,-0.33584807296832475,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",NES,19,13,0.7210571716132839,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",TLN1,19,13,0.10833701477958142,1
+Sample_characteristics_ch1_4,"test site: New York City, NY",ARF3,19,13,-0.047662541253716995,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",ANKHD1-EIF4EBP3,19,13,-0.22637585889582554,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",RTF1,19,13,0.2799447941246656,1
+Sample_characteristics_ch1_4,"test site: New York City, NY",RPL36,19,13,0.31206559133687517,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",KCNC3,19,13,-0.03586096189785152,1
+Sample_characteristics_ch1_4,"test site: New York City, NY",WDFY3,19,13,-0.4239659150506506,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",NEU3,19,13,0.09471884314272709,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",COQ3,19,13,0.35950522726615003,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",MBD5,19,13,0.15786233953251524,0
+Sample_characteristics_ch1_4,"test site: New York City, NY",WIPF2,19,13,0.02809401302293698,1
+Sample_characteristics_ch1_3,Sex: female,WDR26,74,52,0.22753789986150927,1
+Sample_characteristics_ch1_3,Sex: female,NES,74,52,0.4011453064258183,0
+Sample_characteristics_ch1_3,Sex: female,TLN1,74,52,-0.0689996977299596,0
+Sample_characteristics_ch1_3,Sex: female,ARF3,74,52,-0.053177373374922156,0
+Sample_characteristics_ch1_3,Sex: female,ANKHD1-EIF4EBP3,74,52,0.2854169725092132,1
+Sample_characteristics_ch1_3,Sex: female,RTF1,74,52,0.4736196438950482,1
+Sample_characteristics_ch1_3,Sex: female,RPL36,74,52,0.22146203829007494,0
+Sample_characteristics_ch1_3,Sex: female,KCNC3,74,52,0.5071373329183733,0
+Sample_characteristics_ch1_3,Sex: female,WDFY3,74,52,0.3793357726864566,1
+Sample_characteristics_ch1_3,Sex: female,NEU3,74,52,0.5175207896148244,0
+Sample_characteristics_ch1_3,Sex: female,COQ3,74,52,0.5636562166137145,0
+Sample_characteristics_ch1_3,Sex: female,MBD5,74,52,0.1721295755477187,0
+Sample_characteristics_ch1_3,Sex: female,WIPF2,74,52,0.6714000105118721,1
+Sample_characteristics_ch1_3,Sex: male,WDR26,19,23,0.13317908295704614,1
+Sample_characteristics_ch1_3,Sex: male,NES,19,23,0.10474723593794262,0
+Sample_characteristics_ch1_3,Sex: male,TLN1,19,23,-0.008729641283601463,0
+Sample_characteristics_ch1_3,Sex: male,ARF3,19,23,0.1459041939052754,1
+Sample_characteristics_ch1_3,Sex: male,ANKHD1-EIF4EBP3,19,23,0.27589139774354443,1
+Sample_characteristics_ch1_3,Sex: male,RTF1,19,23,0.3721965608859845,1
+Sample_characteristics_ch1_3,Sex: male,RPL36,19,23,0.18729818821643307,0
+Sample_characteristics_ch1_3,Sex: male,KCNC3,19,23,0.19486668927965184,0
+Sample_characteristics_ch1_3,Sex: male,WDFY3,19,23,0.12918297058792438,1
+Sample_characteristics_ch1_3,Sex: male,NEU3,19,23,0.4191651206334356,0
+Sample_characteristics_ch1_3,Sex: male,COQ3,19,23,0.04332744062905921,0
+Sample_characteristics_ch1_3,Sex: male,MBD5,19,23,0.007538814776350155,0
+Sample_characteristics_ch1_3,Sex: male,WIPF2,19,23,0.3090618011686807,1
